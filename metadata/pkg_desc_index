@@ -1,19 +1,19 @@
-app-admin/pwstore 0.20140414: 
-dev-ruby/configuration 1.1.0: 
-dev-ruby/data_objects 0.10.13: 
-dev-ruby/datamapper 1.2.0: 
-dev-ruby/dm-aggregates 1.2.0: 
-dev-ruby/dm-constraints 1.2.0: 
-dev-ruby/dm-core 1.2.1: 
-dev-ruby/dm-do-adapter 1.2.0: 
-dev-ruby/dm-migrations 1.2.0: 
-dev-ruby/dm-serializer 1.2.2: 
-dev-ruby/dm-sqlite-adapter 1.2.0: 
-dev-ruby/dm-timestamps 1.2.0: 
-dev-ruby/dm-transactions 1.2.0: 
-dev-ruby/dm-types 1.2.2: 
-dev-ruby/dm-validations 1.2.0: 
-dev-ruby/do_sqlite3 0.10.13: 
-dev-ruby/powerpack 0.0.9: 
-dev-ruby/rubocop 0.16.0: 
-dev-ruby/sequel 3.48.0: 
+app-admin/pwstore 0.20140414: Stores passwords in a set of encrypted files
+dev-ruby/configuration 1.1.0: Pure ruby scoped configuration files
+dev-ruby/data_objects 0.10.13: Provide a standard and simplified API for communicating with RDBMS from Ruby
+dev-ruby/datamapper 1.2.0: An Object/Relational Mapper for Ruby
+dev-ruby/dm-aggregates 1.2.0: DataMapper plugin providing support for aggregates on collections
+dev-ruby/dm-constraints 1.2.0: DataMapper plugin constraining relationships
+dev-ruby/dm-core 1.2.1: DataMapper core library
+dev-ruby/dm-do-adapter 1.2.0: DataMapper plugin providing support for aggregates on collections
+dev-ruby/dm-migrations 1.2.0: DataMapper plugin for writing and speccing migrations
+dev-ruby/dm-serializer 1.2.2: DataMapper plugin for serializing Resources and Collections
+dev-ruby/dm-sqlite-adapter 1.2.0: Sqlite3 Adapter for DataMapper
+dev-ruby/dm-timestamps 1.2.0: DataMapper plugin for magical timestamps
+dev-ruby/dm-transactions 1.2.0: DataMapper plugin making transaction support available for adapters that support them
+dev-ruby/dm-types 1.2.2: DataMapper plugin providing extra data types
+dev-ruby/dm-validations 1.2.0: Library for performing validations on DM models and pure Ruby object
+dev-ruby/do_sqlite3 0.10.13: Implements the DataObjects API for Sqlite3
+dev-ruby/powerpack 0.0.9: A few useful extensions to core Ruby classes.
+dev-ruby/rubocop 0.16.0: Automatic Ruby code style checking tool.
+dev-ruby/sequel 3.48.0: A lightweight database toolkit for Ruby
