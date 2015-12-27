@@ -8,5 +8,5 @@ RDEPEND=app-crypt/gnupg || ( dev-lang/ruby:2.0 dev-lang/ruby:1.9 dev-lang/ruby:2
 SLOT=0
 SRC_URI=https://github.com/formorer/pwstore/archive/38745c9f91034d64aa182c1b3b20cb7ffb006f3e.tar.gz -> pwstore-0.20140414.tar.gz
 _eclass_exported_funcs=src_install:-
-_eclasses_=ruby-single	c49250968781888465d5a8597376297f	ruby-utils	97c910cb6b087c64260df641a9b3de0c
+_eclasses_=ruby-single	c49250968781888465d5a8597376297f	ruby-utils	2f896785ed65442d7e84ab5f5eef3bd3
 _md5_=fa65d8b30aa1b52e266384cbc5a31135
