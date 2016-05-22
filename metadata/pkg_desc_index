@@ -14,6 +14,7 @@ dev-ruby/dm-transactions 1.2.0: DataMapper plugin making transaction support ava
 dev-ruby/dm-types 1.2.2: DataMapper plugin providing extra data types
 dev-ruby/dm-validations 1.2.0: Library for performing validations on DM models and pure Ruby object
 dev-ruby/do_sqlite3 0.10.13: Implements the DataObjects API for Sqlite3
+dev-ruby/pmap 1.1.1: Add parallel methods into Enumerable: pmap and peach
 dev-ruby/powerpack 0.0.9: A few useful extensions to core Ruby classes.
 dev-ruby/rubocop 0.16.0: Automatic Ruby code style checking tool.
 dev-ruby/sequel 3.48.0: A lightweight database toolkit for Ruby
