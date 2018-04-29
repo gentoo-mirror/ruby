@@ -10,13 +10,18 @@ RUBY_FAKEGEM_EXTRADOC="README.md"
 
 inherit ruby-fakegem
 
-DESCRIPTION="EXtended http(s) CONnections"
-HOMEPAGE="https://github.com/excon/excon"
+DESCRIPTION="A simple REST client for the Docker Remote API"
+HOMEPAGE="https://github.com/swipely/docker-api"
 
 LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~amd64"
-IUSE=""
+IUSE="test"
 
-# Many unpackaged dependencies for tests
+# Requires docker to be running to perform live tests
 RESTRICT="test"
+
+ruby_add_rdepend "
+	>=dev-ruby/excon-0.38.0
+	dev-ruby/json
+"
