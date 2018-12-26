@@ -7,5 +7,5 @@ LICENSE=MIT
 RDEPEND=app-crypt/gnupg || ( dev-lang/ruby:2.4 dev-lang/ruby:2.3 ) virtual/rubygems
 SLOT=0
 SRC_URI=https://github.com/formorer/pwstore/archive/38745c9f91034d64aa182c1b3b20cb7ffb006f3e.tar.gz -> pwstore-0.20140414.tar.gz
-_eclasses_=ruby-single	e6530f43a549f120f9396ccb852288f5	ruby-utils	7626123a4b2ce4488597d355f9905486
+_eclasses_=ruby-single	e6530f43a549f120f9396ccb852288f5	ruby-utils	10cec86289e60f4b0d731b2e4b545e5d
 _md5_=d4c44ff73d87d87bc3f1c8995539f6a4
